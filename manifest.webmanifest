@@ -1,0 +1,9 @@
+{
+  "name": "Good Vibes",
+  "short_name": "Good Vibes",
+  "description": "A little moment of good, whenever you need it.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#142925",
+  "theme_color": "#172d2a"
+}
